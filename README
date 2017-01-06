@@ -1,0 +1,6 @@
+This is the code and report for a GPU ray tracer, my final project for CPSC 424 Parallel Programming, Spring 2016.
+
+My project was on parallelization techniques and writing a program in CUDA for the GPU.  In preparation for the project, the serial ray tracer code needed to be refactored from Javascript into C.  Special thanks to Jakub Kowalik who helped me refactor the serial code.
+
+For more details about the project, please read the report or visit the webpage, where an abstract is hosted:
+https://vverovvero.github.io/CPSC-424-index/
